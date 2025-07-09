@@ -7,7 +7,7 @@ A simple Python-based command-line toolkit for penetration testing. This modular
 ## 👨‍💻 Author
 
 - **Name**: Anurag Batham
-- **GitHub**: [github.com/hninlaekhaing](https://github.com/anuragbatham2007)  
+- **GitHub**: [github.com/anuragbatham2007](https://github.com/anuragbatham2007)  
 - **Project**: Developed as part of CodTech Cybersecurity Internship
 
 ---
